@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 60em;
+    border: 1px white solid;
+}
