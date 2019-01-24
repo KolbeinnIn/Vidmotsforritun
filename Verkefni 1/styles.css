@@ -14,6 +14,11 @@ body{
     animation-iteration-count: infinite;
 }
 
+#texti{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size:5em;
+}
+
 @keyframes dash{
     to {
         stroke-dashoffset:1100;
