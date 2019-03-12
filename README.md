@@ -9,7 +9,13 @@ létt að kóða vegna þess að þetta var framleitt með algjöran grunn í fo
 samt hægt að gera flóknari actual kóða með Sphero SDK. 
 Verkefnið snýst um að gera gesture controlled sphero með vefmyndavél (erum nú þegar með myndavélina).
 
+Myndir:<br>
+https://github.com/KolbeinnIn/Vidmotsforritun/blob/master/sprk__e.jpg<br>
+https://github.com/KolbeinnIn/Vidmotsforritun/blob/master/spheroedu-sprkplus-packaging.png<br>
+https://github.com/KolbeinnIn/Vidmotsforritun/blob/master/sprk%2Bverd.PNG<br>
+
 verð miðast við gengið 12.3.2019<br>
+sjá mynd sprk%2Bverd.PNG<br>
 Verð: 15750 kr<br>
 Shipping method: international standard - 2933 kr<br>
 Loss and damage protection: 373 kr<br>
